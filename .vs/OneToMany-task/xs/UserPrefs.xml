@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{A00CB083-0542-4C6D-BAE1-6FE99B51208B}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/tunzale/Desktop/ViewComponent/OneToMany-task/ViewModels/Sliders/SliderCreateVM.cs" relfile="OneToMany-task/ViewModels/Sliders/SliderCreateVM.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OneToMany-task/Areas/Admin/Controllers/SliderController.cs">
+    <Files>
+      <File FileName="OneToMany-task/Areas/Admin/Views/Slider/Create.cshtml" Line="10" Column="57" />
+      <File FileName="OneToMany-task/Helpers/Extensions/FileExtensions.cs" Line="23" Column="1" />
+      <File FileName="OneToMany-task/Areas/Admin/Controllers/SliderController.cs" Line="84" Column="1" />
+      <File FileName="OneToMany-task/Services/CategoryService.cs" Line="62" Column="12" />
+      <File FileName="OneToMany-task/Program.cs" Line="42" Column="1" />
+      <File FileName="OneToMany-task/Models/Slider.cs" Line="1" Column="1" />
+      <File FileName="OneToMany-task/Areas/Admin/Controllers/CategoryController.cs" Line="24" Column="10" />
+      <File FileName="OneToMany-task/ViewComponents/SliderViewComponent.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OneToMany-task" expanded="True">
+            <Node name="OneToMany-task">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="SliderController.cs" selected="True" />
+                  </Node>
+                  <Node name="Views" expanded="True">
+                    <Node name="Slider" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewComponents" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="Sliders" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OneToMany-task PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
